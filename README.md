@@ -35,24 +35,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manasvoid0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvoid0&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manasvoid0&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvoid0&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manasvoid0&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=manasvoid0&theme=radical&hide_border=true&background=00000000" alt="streak" />
 </p>
 
-<!-- ───────────────────────────  TROPHIES  ───────────────────────── -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manasvoid0&theme=radical&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
-<!-- ─────────────────────  SNAKE CONTRIBUTION GRAPH  ─────────────────
-  Optional: the Pac-Man / snake animation that eats your contributions.
-  It needs a GitHub Action. See the setup note at the bottom of this file.
--->
+<!-- ─────────────────────  SNAKE CONTRIBUTION GRAPH  ───────────────── -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manasvoid0/manasvoid0/output/snake-dark.svg" />
