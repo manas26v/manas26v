@@ -11,15 +11,15 @@
 - 🔭 I'm currently working on **AI / RAG-powered applications**
 - 🌱 I'm learning **DSA (NeetCode roadmap)** & advanced **LLM tooling**
 - 💻 I love building **local-first, no-API AI tools** that run on Ollama
-- 📫 Reach me at **>>> your-email@example.com <<<**
+- 📫 Reach me at **mrbarik2002@gmail.com**
 
 <!-- ───────────────────────────  CONNECT  ────────────────────────── -->
 
 <p align="center">
-  <a href=">>> YOUR_PORTFOLIO_URL <<<"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href=">>> YOUR_LINKEDIN_URL <<<"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://manasvoid0.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/manas-ranjan-barik-a2917927a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/manasvoid0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:>>> your-email@example.com <<<"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mrbarik2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- ───────────────────────────  TECH STACK  ─────────────────────── -->
@@ -27,7 +27,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,github,vscode,tailwind,html,css" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,github,vscode,tailwind,html,css" alt="skills" />
 </p>
 
 <!-- ───────────────────────────  GITHUB STATS  ───────────────────── -->
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasvoid0&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=manasvoid0&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 <!-- ───────────────────────────  TROPHIES  ───────────────────────── -->
@@ -54,7 +54,11 @@
   It needs a GitHub Action. See the setup note at the bottom of this file.
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manasvoid0/manasvoid0/output/snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manasvoid0/manasvoid0/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manasvoid0/manasvoid0/output/snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/manasvoid0/manasvoid0/output/snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/manasvoid0">manasvoid0</a></i></p>
