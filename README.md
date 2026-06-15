@@ -37,19 +37,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manasvoid0&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=manasvoid0&show_icons=true&theme=default&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=manasvoid0&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=0ea5e9&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=manasvoid0&show_icons=true&theme=default&hide_border=true&bg_color=00000000&text_color=0ea5e9&count_private=true" alt="stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvoid0&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvoid0&layout=compact&theme=default&hide_border=true&bg_color=00000000" alt="top langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvoid0&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=0ea5e9" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvoid0&layout=compact&theme=default&hide_border=true&bg_color=00000000&text_color=0ea5e9" alt="top langs" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manasvoid0&theme=radical&hide_border=true&background=00000000" />
-    <img src="https://streak-stats.demolab.com?user=manasvoid0&theme=default&hide_border=true&background=00000000" alt="streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manasvoid0&theme=radical&hide_border=true&background=00000000&dates=0ea5e9&sideLabels=0ea5e9" />
+    <img src="https://streak-stats.demolab.com?user=manasvoid0&theme=default&hide_border=true&background=00000000&dates=0ea5e9&sideLabels=0ea5e9" alt="streak" />
   </picture>
 </p>
 
