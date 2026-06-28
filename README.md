@@ -62,4 +62,4 @@
   </picture>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/manasvoid0">manasvoid0</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/manasvoid0">manas26v</a></i></p>
