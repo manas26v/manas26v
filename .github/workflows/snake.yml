@@ -14,7 +14,7 @@ jobs:
       - name: Generate snake game
         uses: Platane/snk@v3
         with:
-          github_user_name: manasvoid0
+          github_user_name: manas26v
           outputs: |
             dist/snake.svg?palette=github-light
             dist/snake-dark.svg?palette=github-dark
