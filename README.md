@@ -38,3 +38,4 @@
     <img src="https://streak-stats.demolab.com?user=manas26v&theme=default&hide_border=true&background=00000000&dates=0ea5e9&sideLabels=0ea5e9" alt="GitHub streak" />
   </picture>
 </p>
+<div align="center">manas</div>
